@@ -1,0 +1,3 @@
+# Rio
+Rio is an ongoing project planed to be a open source game engine writen in C++ and utulizing the vulkan graphics api. This aims to be a
+modern game engine with intergrated multiplayer and physics. As the project continues resources will be linked to help any contributers who want to help. So far this a purely a graphics engine and as such is using Vulkan, GLFW, and GLM. Inorder to begin working on the project a well writen tutorial is offered at https://vulkan-tutorial.com. If any help is needed setting up the project do not be afraid to ask me. You can find me on the discord channel https://discord.gg/n85F7Bn. All plans will be documented here and a project board will soon be made.
